@@ -6,8 +6,11 @@ A primeira página deve ter uma imagem e um vídeo do YouTube embedado.
 
 A segunda página deve ter um formulário com os seguintes campos e regras de validação: 
 nome completo (deve ter um espaço e, no mínimo, 10 caracteres),
+
 e-mail (obrigatório e deve ser um e-mail válido), 
+
 CPF (obrigatório e deve ser um CPF válido), nome da primeira professora (deve ter a palavra "véia" no nome), 
+
 data de nascimento (deve ser uma data válida). 
 
 O formulário deve ser validado via JS. 

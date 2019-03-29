@@ -1,0 +1,25 @@
+.error {
+    color: #cc0000; 
+}   
+
+#topo {
+    min-height: 50px;
+    margin-bottom: 10px;
+}
+
+#rodape {
+    margin-top: 10px;
+}
+
+img {
+    width:100%;
+    height: 250px;
+}
+
+.form-row{
+ margin-bottom: 10px;   
+}
+
+
+
+
